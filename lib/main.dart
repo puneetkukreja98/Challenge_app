@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
                 height: double.infinity,
                 width: 100.0,
                 color: Colors.red,
-                margin: EdgeInsets.only(top: 25.0, bottom: 25.0),
+                margin: EdgeInsets.only(top: 30.0, bottom: 25.0),
               ),
               Column(
                 mainAxisAlignment: MainAxisAlignment.center,
