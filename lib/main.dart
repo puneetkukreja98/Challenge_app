@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
                 height: double.infinity,
                 width: 100.0,
                 color: Colors.blue,
-                margin: EdgeInsets.only(top: 30.0, bottom: 30.0),
+                margin: EdgeInsets.only(top: 10.0, bottom: 10.0),
               ),
             ],
           ),
